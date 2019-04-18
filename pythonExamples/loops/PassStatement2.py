@@ -1,5 +1,3 @@
-__author__ = 'Gaurav.Khanna'
-
 for letter in 'Python':
    if letter == 'h':
       pass

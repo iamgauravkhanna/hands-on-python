@@ -1,7 +1,22 @@
-__author__ = 'Gaurav.Khanna'
+# Program to display table of Number
 
-#Program to display table of Number
+num = 2
 
-num=2
-for a in range (1,6):
+# 11 is excluded
+for a in range (1,11):
     print (num * a)
+
+
+fruits = ["apple", "banana", "cherry"]
+
+for x in fruits:
+
+  print(x)
+
+for x in "banana":
+
+  print(x)
+
+# 10 is excluded
+for b in range(1, 10, 1):
+    print(b)

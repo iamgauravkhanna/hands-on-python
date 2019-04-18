@@ -1,9 +1,9 @@
 __author__ = 'Gaurav.Khanna'
 
-n = 153
-sum = 0
-while n > 0:
-    r = n % 10
-    sum += r
-    n = n / 10
-print(sum)
+g = 24502
+
+while g < 100000:
+    x = g
+    x = x + 6789000000
+    print(x)
+    g = g + 1
