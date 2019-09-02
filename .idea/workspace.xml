@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pythonExamples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/oops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/oops/class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/oops/oops-example-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/oops/oops-example-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/parameters.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/python-commands.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/sql/GetConfigElementKeyStatus.sql" beforeDir="false" />
@@ -19,11 +24,10 @@
       <change beforePath="$PROJECT_DIR$/../html/Selectable.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../html/Sortable.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../html/Window.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace-python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/class/Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/oops/class/Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/class/Employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/oops/class/Employee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testDriver.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testDriverOld.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testManager.py" beforeDir="false" />
@@ -47,6 +51,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1Pxs2p1BNqHAZBOB1QvG5QSumRX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -61,11 +67,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pythonExamples/oops" />
       <recent name="C:\office\code\workspace-python\pythonExamples\excel" />
       <recent name="C:\office\code\workspace-python\pythonExamples\nose-framework" />
       <recent name="C:\office\code\workspace-python\pythonExamples\class" />
       <recent name="C:\office\code\workspace-python\pythonExamples\string" />
-      <recent name="C:\office\code\workspace-python\pythonExamples\tuple" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -80,7 +86,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.functions">
+  <component name="RunManager" selected="Python.oops-example-2">
     <configuration name="data-types" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,6 +153,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="oops-example-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/oops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/oops/oops-example-2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,35 +196,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/set" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/set/set.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.oops-example-2" />
         <item itemvalue="Python.functions" />
         <item itemvalue="Python.numberSystem" />
         <item itemvalue="Python.operators" />
         <item itemvalue="Python.data-types" />
-        <item itemvalue="Python.set" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +216,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554123516909</updated>
+      <workItem from="1567425149031" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="New Fixes">
       <created>1554213689226</created>
@@ -233,8 +239,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554729491967</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="New Fixes">
+      <created>1567425338143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567425338143</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
