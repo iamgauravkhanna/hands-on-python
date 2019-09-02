@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonExamples/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/oops/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/oops/class/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/oops/oops-example-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/oops/oops-example-2.py" afterDir="false" />
+    <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="New Fixes">
+      <change afterPath="$PROJECT_DIR$/pythonExamples/comments/comments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/parameters.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/python-commands.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/sql/GetConfigElementKeyStatus.sql" beforeDir="false" />
@@ -24,10 +21,7 @@
       <change beforePath="$PROJECT_DIR$/../html/Selectable.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../html/Sortable.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../html/Window.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/class/Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/oops/class/Class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/class/Employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/oops/class/Employee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testDriver.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testDriverOld.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testManager.py" beforeDir="false" />
@@ -63,7 +57,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -86,8 +80,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oops-example-2">
-    <configuration name="data-types" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.function-example-1">
+    <configuration name="comments" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,12 +89,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/data-types" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/comments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/data-types/data-types.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/comments/comments.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="function-example-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,35 +188,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/operator" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/operator/operators.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.function-example-1" />
+        <item itemvalue="Python.comments" />
         <item itemvalue="Python.oops-example-2" />
         <item itemvalue="Python.functions" />
         <item itemvalue="Python.numberSystem" />
-        <item itemvalue="Python.operators" />
-        <item itemvalue="Python.data-types" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567425338143</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="New Fixes">
+      <created>1567425692869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567425692869</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
