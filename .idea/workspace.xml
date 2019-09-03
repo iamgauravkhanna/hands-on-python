@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="New Fixes">
-      <change afterPath="$PROJECT_DIR$/pythonExamples/comments/comments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/parameters.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/python-commands.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../assets/sql/GetConfigElementKeyStatus.sql" beforeDir="false" />
@@ -22,6 +20,7 @@
       <change beforePath="$PROJECT_DIR$/../html/Sortable.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../html/Window.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testDriver.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testDriverOld.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../manager/testManager.py" beforeDir="false" />
