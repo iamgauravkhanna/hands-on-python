@@ -2,32 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="New Fixes">
-      <change beforePath="$PROJECT_DIR$/../assets/parameters.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assets/python-commands.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assets/sql/GetConfigElementKeyStatus.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assets/testcase.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../assets/testdata.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../changelog.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../framework-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/ContextClick.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/DoubleClick.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/DragAndDrop.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/DragMe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/Frames.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/Selectable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/Sortable.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html/Window.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/015-oops/class/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace-python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../manager/testDriver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../manager/testDriverOld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../manager/testManager.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../manager/testManagerOld.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testcases/UITests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../utilities/ExcelUtils.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../utilities/WebPage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/001_basic/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/001-basic/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/002_operator/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/004-operator/operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/004-number/numberSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/005-number/numberSystem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/005-variables/VariablesExample1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/003-variables/VariablesExample1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/array/array-examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/009-array/array-examples.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/comments/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/008-comments/comments.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/control/ControlStatement1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/007-control-statements/ControlStatement1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/control/ControlStatement2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/007-control-statements/ControlStatement2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/control/ControlStatement3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/007-control-statements/ControlStatement3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/data-types/data-types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/excel/WorkingWithExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/025-excel/WorkingWithExcel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/014-functions/function-example-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/functions/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/014-functions/functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/input/inputExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/016-input/inputExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/list/List1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/012-list/List1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/BreakStatement1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/BreakStatement1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/ContinueStatement1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/ContinueStatement1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/ForLoop1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/ForLoop1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/ForLoop2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/ForLoop2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/NestedLoop1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/NestedLoop1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/PassStatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/PassStatement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/PassStatement2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/PassStatement2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/WhileLoop1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/WhileLoop1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/WhileLoop2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/WhileLoop2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/nose-framework/TestingNose.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/017-nose-framework/TestingNose.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/002-data-types/data-types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/class/Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/class/Class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/class/Employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/class/Employee.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/class/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/oops-example-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/oops-example-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/oops-example-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/oops-example-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/set/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/010-set/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonExamples/tuple/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/011-tuple/Tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +67,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +90,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.function-example-1">
+  <component name="RunManager" selected="Python.data-types">
+    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/001-basic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/001-basic/basic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="comments" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,6 +133,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="data-types" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/002-data-types" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/002-data-types/data-types.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="function-example-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,50 +167,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/functions/functions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="numberSystem" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/number-system" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/number-system/numberSystem.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.data-types" />
+        <item itemvalue="Python.basic" />
         <item itemvalue="Python.function-example-1" />
         <item itemvalue="Python.comments" />
         <item itemvalue="Python.oops-example-2" />
-        <item itemvalue="Python.functions" />
-        <item itemvalue="Python.numberSystem" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567425692869</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="New Fixes">
+      <created>1571643919354</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1571643919354</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
