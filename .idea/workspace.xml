@@ -55,8 +55,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.time1">
-    <configuration name="BreakStatement1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.arithmetic-operations">
+    <configuration name="arithmetic-operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/013-loops" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/99-Programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/013-loops/BreakStatement1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/99-Programs/arithmetic-operations.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.arithmetic-operations" />
         <item itemvalue="Python.time1" />
         <item itemvalue="Python.clear-function" />
         <item itemvalue="Python.dicitionary1" />
         <item itemvalue="Python.basic2" />
-        <item itemvalue="Python.BreakStatement1" />
       </list>
     </recent_temporary>
   </component>
