@@ -2,43 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="New Fixes">
-      <change afterPath="$PROJECT_DIR$/pythonExamples/015-oops/class/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace-python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace-python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/001-basic/basic2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/018-dicitionary/clear-function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/018-dicitionary/dicitionary1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/019-date-time-calendar/time1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/001_basic/basic.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/001-basic/basic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/002_operator/operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/004-operator/operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/004-number/numberSystem.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/005-number/numberSystem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/005-variables/VariablesExample1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/003-variables/VariablesExample1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/array/array-examples.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/009-array/array-examples.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/comments/comments.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/008-comments/comments.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/control/ControlStatement1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/007-control-statements/ControlStatement1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/control/ControlStatement2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/007-control-statements/ControlStatement2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/control/ControlStatement3.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/007-control-statements/ControlStatement3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/data-types/data-types.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/excel/WorkingWithExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/025-excel/WorkingWithExcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/014-functions/function-example-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/functions/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/014-functions/functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/input/inputExample.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/016-input/inputExample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/list/List1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/012-list/List1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/BreakStatement1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/BreakStatement1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/ContinueStatement1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/ContinueStatement1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/ForLoop1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/ForLoop1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/ForLoop2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/ForLoop2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/NestedLoop1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/NestedLoop1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/PassStatement.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/PassStatement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/PassStatement2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/PassStatement2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/WhileLoop1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/WhileLoop1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/loops/WhileLoop2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/013-loops/WhileLoop2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/nose-framework/TestingNose.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/017-nose-framework/TestingNose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/002-data-types/data-types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/class/Class.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/class/Class.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/class/Employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/class/Employee.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/class/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/oops-example-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/oops-example-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/oops/oops-example-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/015-oops/oops-example-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/set/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/010-set/set.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/tuple/Tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/011-tuple/Tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -90,8 +58,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.data-types">
-    <configuration name="basic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.time1">
+    <configuration name="BreakStatement1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/013-loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/013-loops/BreakStatement1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="basic2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/001-basic/basic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/001-basic/basic2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="clear-function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/comments" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/018-dicitionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/comments/comments.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/018-dicitionary/clear-function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="data-types" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dicitionary1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/002-data-types" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/018-dicitionary" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/002-data-types/data-types.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/018-dicitionary/dicitionary1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="function-example-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="time1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,32 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/functions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/019-date-time-calendar" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/functions/function-example-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="oops-example-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/oops" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/oops/oops-example-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/019-date-time-calendar/time1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.data-types" />
-        <item itemvalue="Python.basic" />
-        <item itemvalue="Python.function-example-1" />
-        <item itemvalue="Python.comments" />
-        <item itemvalue="Python.oops-example-2" />
+        <item itemvalue="Python.time1" />
+        <item itemvalue="Python.clear-function" />
+        <item itemvalue="Python.dicitionary1" />
+        <item itemvalue="Python.basic2" />
+        <item itemvalue="Python.BreakStatement1" />
       </list>
     </recent_temporary>
   </component>
