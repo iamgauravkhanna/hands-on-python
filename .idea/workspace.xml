@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="New Fixes">
-      <change afterPath="$PROJECT_DIR$/pythonExamples/001-basic/basic2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/018-dicitionary/clear-function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/018-dicitionary/dicitionary1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/019-date-time-calendar/time1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/99-Programs/arithmetic-operations.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
