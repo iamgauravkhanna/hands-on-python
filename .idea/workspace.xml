@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="New Fixes">
-      <change afterPath="$PROJECT_DIR$/pythonExamples/99-Programs/arithmetic-operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/032-web-services/rest-example-1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonExamples/032-web-services/rest-example-2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +56,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.arithmetic-operations">
+  <component name="RunManager" selected="Python.rest-example-2">
     <configuration name="arithmetic-operations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -69,27 +70,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/99-Programs/arithmetic-operations.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="basic2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="workspace-python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/001-basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/001-basic/basic2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -119,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dicitionary1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rest-example-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="workspace-python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,11 +107,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/018-dicitionary" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/032-web-services" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/018-dicitionary/dicitionary1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/032-web-services/rest-example-1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rest-example-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="workspace-python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythonExamples/032-web-services" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythonExamples/032-web-services/rest-example-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rest-example-2" />
+        <item itemvalue="Python.rest-example-1" />
         <item itemvalue="Python.arithmetic-operations" />
         <item itemvalue="Python.time1" />
         <item itemvalue="Python.clear-function" />
-        <item itemvalue="Python.dicitionary1" />
-        <item itemvalue="Python.basic2" />
       </list>
     </recent_temporary>
   </component>
