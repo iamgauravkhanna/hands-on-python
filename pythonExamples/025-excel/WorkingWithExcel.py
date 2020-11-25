@@ -1,7 +1,6 @@
 __author__ = 'Gaurav.Khanna'
 
 from openpyxl import load_workbook
-
 import os.path
 
 wb = load_workbook(r'C:\GK\Selenium\PHIX_Trunk\assets\prod\tests\Broker.xlsx', "r")

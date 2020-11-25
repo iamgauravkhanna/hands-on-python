@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ae4c150-fa07-48c1-974a-e7f57dd1558d" name="Default Changelist" comment="New Fixes">
-      <change afterPath="$PROJECT_DIR$/pythonExamples/025-excel/excel-example-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/027-assert/example-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/027-assert/example-2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/028-collections/order-dictionary-example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/029-math-module/example-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/030-os-module/example-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/031-random-module/example-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/033-statistics-module/example-1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythonExamples/034-sys-module/example-1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/025-excel/WorkingWithExcel.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/025-excel/WorkingWithExcel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/050-Programs/arithmetic-operations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonExamples/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonExamples/025-excel/excel-example-1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
