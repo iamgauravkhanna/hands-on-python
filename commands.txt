@@ -1,0 +1,9 @@
+python3 -m venv gk_python
+
+source gk_python/bin/activate
+
+pip3 install ipython
+
+pip3 install pandas
+
+pip3 install jupyter
