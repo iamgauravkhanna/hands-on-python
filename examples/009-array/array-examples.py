@@ -1,11 +1,13 @@
 from array import *
 
-varArray = array('i',[1,3,5,7,9,10])
+int_array = array('i',[1,3,5,7,9,10])
 
-lengthVar = len(varArray)
+array_length = len(int_array)
 
-for a in varArray:
-    print(a)
+for a in int_array:
+    print("Element :: ", a)
 
-for a in range(lengthVar):
-    print(a+1)
+print("Length of Array :: ", array_length)
+
+for a in range(array_length):
+    print("Element Range :: ", a+1)
