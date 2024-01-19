@@ -1,10 +1,10 @@
 import collections
 
-d1 = collections.OrderedDict()
-d1['A'] = 10
-d1['C'] = 12
-d1['B'] = 11
-d1['D'] = 13
+order_dic = collections.OrderedDict()
+order_dic['A'] = 10
+order_dic['C'] = 12
+order_dic['B'] = 11
+order_dic['D'] = 13
 
-for k, v in d1.items():
+for k, v in order_dic.items():
     print(k, v)
