@@ -1,10 +1,19 @@
-import collections
+from collections import OrderedDict
 
-order_dic = collections.OrderedDict()
-order_dic['A'] = 10
-order_dic['C'] = 12
-order_dic['B'] = 11
-order_dic['D'] = 13
+# Create an empty OrderedDict
+ordered_dict = OrderedDict()
 
-for k, v in order_dic.items():
-    print(k, v)
+# Add items to the OrderedDict
+ordered_dict['a'] = 1
+ordered_dict['b'] = 2
+ordered_dict['c'] = 3
+
+# Print the OrderedDict
+print(ordered_dict)
+
+# Access an item by key
+print(ordered_dict['b'])
+
+# Iterate over the OrderedDict
+for key, value in ordered_dict.items():
+    print(key, value)
