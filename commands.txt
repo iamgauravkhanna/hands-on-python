@@ -1,6 +1,8 @@
-python3 -m venv gk_python
+pip3 install virtualenv
 
-source gk_python/bin/activate
+python3 -m venv py_env
+
+source py_env/bin/activate
 
 pip3 install ipython
 
