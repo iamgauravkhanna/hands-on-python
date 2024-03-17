@@ -1,9 +1,10 @@
 __author__ = 'Gaurav.Khanna'
 
-a = 10
+a = 17
+
 if a >= 20:
-    print('Condition is True')
+    print('First Condition is True')
 elif a >= 15:
-    print('Checking second value')
+    print('Second Condition is True')
 else:
     print('All Conditions are false')
