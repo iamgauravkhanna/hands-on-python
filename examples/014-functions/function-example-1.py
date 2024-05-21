@@ -1,10 +1,10 @@
 """ Defining Function """
 
-def printDetails(name):
+def printString(name):
     print("Printing Details for " + name)
 
 """ Using Function """
 
-printDetails("Gaurav")
+printString("Gaurav")
 print("")
-printDetails("Khanna")
+printString("Khanna")
