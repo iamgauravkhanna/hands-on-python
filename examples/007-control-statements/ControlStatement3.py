@@ -1,10 +1,12 @@
 __author__ = 'Gaurav.Khanna'
 
-a = 17
+i = 21
 
-if a >= 20:
-    print('First Condition is True')
-elif a >= 15:
-    print('Second Condition is True')
-else:
-    print('All Conditions are false')
+if (i == 10): 
+	print("i is 10") 
+elif (i == 15): 
+	print("i is 15") 
+elif (i == 20): 
+	print("i is 20") 
+else: 
+	print("i is not present") 

@@ -2,7 +2,8 @@
 
 sum=0
 
-for n in range(1,11):
+# 11 is not included
+for n in range(0,11):
     sum += n
 
 print(sum)
