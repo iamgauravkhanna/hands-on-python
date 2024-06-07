@@ -5,7 +5,6 @@ class Employee:
     def __init__(self):
 
         self.name = "gaurav"
-
         self.phone = "67309254"
 
 employeeObj = Employee()

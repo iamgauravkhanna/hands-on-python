@@ -8,7 +8,8 @@ class Dog:
     def speak(self) :
         print("I am {}".format(self.name))
 
-tommy = Dog("Tommy")
+dog = Dog("Tommy")
 
-tommy.speak()
-print( "My Type is ", tommy.which_type)
+dog.speak()
+
+print( "My Type is", dog.which_type)

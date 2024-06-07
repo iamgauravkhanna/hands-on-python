@@ -1,7 +1,7 @@
 """ Defining Function """
 
 def printString(name):
-    print("Printing Details for " + name)
+    print("Print String " + name)
 
 """ Using Function """
 

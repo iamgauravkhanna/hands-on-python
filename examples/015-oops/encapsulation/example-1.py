@@ -15,7 +15,7 @@ class Derived(Base):
 		# Base class
 		Base.__init__(self)
 		print("Calling private member of base class: ")
-		print(self.__c)
+		#print(self.__c)
 
 
 # Driver code
@@ -24,9 +24,10 @@ print(obj1.a)
 
 # Uncommenting print(obj1.c) will
 # raise an AttributeError
-print(obj1.c)
+# print(obj1.c)
 
 # Uncommenting obj2 = Derived() will
 # also raise an AtrributeError as
 # private member of base class
 # is called inside derived class
+obj2 = Derived()

@@ -14,3 +14,12 @@ class Car:
 
     def stop(self):
         print ("Engine switched off")
+
+car_obj = Car()
+
+print(car_obj.name)
+
+car_obj.start()
+car_obj.stop()
+
+

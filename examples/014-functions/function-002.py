@@ -1,6 +1,6 @@
 import math
 
-x = math.sqrt(25)
+x = math.sqrt(7)
 
 print(x)
 

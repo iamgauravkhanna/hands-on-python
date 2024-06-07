@@ -1,1 +1,1 @@
-print ("hello world"); #here, we have used print() function to print the message on the console.
+print("hello world"); #here, we have used print() function to print the message on the console.

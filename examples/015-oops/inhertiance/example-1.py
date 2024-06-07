@@ -14,8 +14,8 @@ class Person(object):
         print(self.idnumber)
          
     def details(self):
-        print("My name is {}".format(self.name))
-        print("IdNumber: {}".format(self.idnumber))
+        print("Parent - My name is {}".format(self.name))
+        print("Parent - IdNumber: {}".format(self.idnumber))
      
 # child class
 class Employee(Person):
@@ -26,6 +26,7 @@ class Employee(Person):
         # invoking the __init__ of the parent class
         Person.__init__(self, name, idnumber)
          
+    # overriding parent method
     def details(self):
         print("My name is {}".format(self.name))
         print("IdNumber: {}".format(self.idnumber))
