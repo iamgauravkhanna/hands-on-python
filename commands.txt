@@ -11,3 +11,5 @@ pip3 install pandas
 pip3 install jupyter
 
 pip3 install openpyxl
+
+pip3 install urllib3==1.26.6
