@@ -6,6 +6,8 @@ def ImageDownloader(url):
     
     text = response.text
 
+    print(text)
+
     p = r'<img.*?src="(.*?)"[^\>]+>'
     img_addrs = re.findall(p, text)
 

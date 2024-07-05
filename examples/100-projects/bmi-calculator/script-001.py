@@ -43,7 +43,7 @@ def interpret_bmi(bmi):
         return f"Your BMI is {bmi}, you are obese (Class III)."
 
 
-def main():
+def main_program():
     try:
         height = float(input("Enter your height in meters: "))
         weight = float(input("Enter your weight in kilograms: "))
@@ -57,4 +57,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main_program()
